@@ -22,6 +22,7 @@ namespace Sistema_de_Inventario
                 Console.WriteLine("Hello World");
                 Console.WriteLine("Otro Cambio");
                 Console.WriteLine("De nuevo");
+                Console.WriteLine("No jodas jajaj");
                 await context.Response.WriteAsync("Hello World!");
             });
         }
