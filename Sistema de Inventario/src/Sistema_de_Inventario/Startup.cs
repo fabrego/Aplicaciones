@@ -20,6 +20,7 @@ namespace Sistema_de_Inventario
             app.Run(async (context) =>
             {
                 Console.WriteLine("Hello World");
+                Console.WriteLine("Otro Cambio");
                 await context.Response.WriteAsync("Hello World!");
             });
         }
