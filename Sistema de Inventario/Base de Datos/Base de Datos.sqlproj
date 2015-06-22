@@ -60,7 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="roles.sql">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>DoNotCopy</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 </Project>
