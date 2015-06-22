@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Sistema_de_Inventario", "src\Sistema_de_Inventario\Sistema_de_Inventario.xproj", "{FB243D99-51C3-4120-8058-AAAA843B6BC0}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Base de Datos", "Base de Datos\Base de Datos.sqlproj", "{074B18C6-3CDE-41C5-AB9B-DD89C4606D75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,12 @@ Global
 		{FB243D99-51C3-4120-8058-AAAA843B6BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB243D99-51C3-4120-8058-AAAA843B6BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB243D99-51C3-4120-8058-AAAA843B6BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074B18C6-3CDE-41C5-AB9B-DD89C4606D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074B18C6-3CDE-41C5-AB9B-DD89C4606D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074B18C6-3CDE-41C5-AB9B-DD89C4606D75}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{074B18C6-3CDE-41C5-AB9B-DD89C4606D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074B18C6-3CDE-41C5-AB9B-DD89C4606D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074B18C6-3CDE-41C5-AB9B-DD89C4606D75}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
